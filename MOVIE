@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Poetry</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1>POETRY</h1>
+
+    <p>If I Had Legs Id Kick You (2025).</p>
+
+    <a href="index.html">← back home</a>
+
+  </body>
+</html>
